@@ -1,1 +1,1 @@
-use Zef::CLI;
+use Zef::CLI :main;
