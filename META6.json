@@ -14,6 +14,7 @@
         "Zef"           : "lib/Zef.pm6",
         "Zef::Build"    : "lib/Zef/Build.pm6",
         "Zef::CLI"      : "lib/Zef/CLI.pm6",
+        "Zef::Commands" : "lib/Zef/Commands.pm6",
         "Zef::Client"   : "lib/Zef/Client.pm6",
         "Zef::Config"   : "lib/Zef/Config.pm6",
         "Zef::Extract"  : "lib/Zef/Extract.pm6",
